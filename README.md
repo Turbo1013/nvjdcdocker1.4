@@ -17,7 +17,7 @@
 1拉源码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/jumao3703/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/Turbo1013/nvjdcdocker.git /root/nolanjdc
 ```
 国外
 ```
@@ -119,7 +119,7 @@ mv /root/nolanjdc /root/nolanjdcdb
 然后执行步骤一 拉取代码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/Turbo1013/nvjdcdocker.git /root/nolanjdc
 ```
 国外
 ```
